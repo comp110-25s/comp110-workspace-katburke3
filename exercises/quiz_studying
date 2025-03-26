@@ -1,0 +1,2 @@
+def hey_bro(name: str) -> None:
+    return print(f"hey {name} what's up")

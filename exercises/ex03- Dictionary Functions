@@ -1,0 +1,6 @@
+"""an exercise to become familiar with lists, dictionaries, and sets"""
+
+__author__ :str = "730558066"
+
+def count(list: list[str]) -> dict[str,int]:
+    
